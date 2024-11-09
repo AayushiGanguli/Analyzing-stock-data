@@ -1,1 +1,1 @@
-# Analyzing-stock-data and building dashboard
+# Analyzing stock data and building dashboard
